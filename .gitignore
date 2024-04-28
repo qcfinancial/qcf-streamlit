@@ -1,3 +1,9 @@
+# JetBrains Folders and Files
+.idea/
+
+# Mac Folders and Files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
